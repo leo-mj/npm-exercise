@@ -1,3 +1,9 @@
+/**
+ * 
+ * @param inputArr 
+ * @param fn 
+ * @returns an array containing one array with all elements that pass a test, one with all elements that fail the test
+ */
 function partition(inputArr, fn) {
     const passArr = [];
     const failArr = [];
