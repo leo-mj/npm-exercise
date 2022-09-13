@@ -1,0 +1,17 @@
+{
+  "name": "@leo-mj/array-functions",
+  "version": "1.0.0",
+  "description": "Some higher-order array functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "exercise"
+  ],
+  "author": "leo-mj",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
